@@ -1,0 +1,23 @@
+body{
+  color:#000080;
+}
+ul li{
+  color:orange;
+}
+.bg-cover {
+  background-attachment: static;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#gallery{
+  margin:35px;
+}
+.footer{
+  background-color:black;
+  padding-top:50px;
+  color:white;
+}
+.footer_nav{
+  color:white;
+}
