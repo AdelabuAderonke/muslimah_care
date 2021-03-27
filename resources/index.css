@@ -1,7 +1,19 @@
 body{
   color:#000080;
+  margin:0;
+  padding:0;
+
 }
-ul li{
+.donate{
+  border:2px solid orange;
+  color:orange;
+  border-radius:15px;
+}
+.donate:hover{
+  background-color:orange;
+  border-color:orange;
+}
+.orange{
   color:orange;
 }
 .bg-cover {
@@ -13,11 +25,16 @@ ul li{
 #gallery{
   margin:35px;
 }
+
 .footer{
   background-color:black;
   padding-top:50px;
   color:white;
+  margin:0;
 }
 .footer_nav{
   color:white;
+}
+.socialmedia{
+  margin:5px;
 }
